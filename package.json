@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "groovy",
   "version": "0.0.1",
-  "description": "A NodeTS template.",
+  "description": "Modular javascript command line shell.",
   "main": "src/main.ts",
   "scripts": {
     "start": "tsc .",
